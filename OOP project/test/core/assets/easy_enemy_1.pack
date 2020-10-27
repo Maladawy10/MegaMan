@@ -1,0 +1,26 @@
+
+easy_enemy_1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ezgif-6-e23a8b3ebd86
+  rotate: false
+  xy: 1, 131
+  size: 280, 91
+  orig: 280, 91
+  offset: 0, 0
+  index: -1
+ezgif-6-24d67d7ec1b9
+  rotate: false
+  xy: 1, 1
+  size: 241, 128
+  orig: 241, 128
+  offset: 0, 0
+  index: -1
+ezgif-6-6b13cca75c1c
+  rotate: false
+  xy: 244, 64
+  size: 241, 65
+  orig: 241, 65
+  offset: 0, 0
+  index: -1
